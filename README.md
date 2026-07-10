@@ -1,4 +1,5 @@
 # Comparative Analysis of Gradient Descent and Stochastic Gradient Descent for Polynomial Curve Fitting
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21294019.svg)](https://doi.org/10.5281/zenodo.21294019)
 
 Code, data, and complete experimental records for the paper:
 
@@ -60,6 +61,8 @@ reproducibility of the accompanying paper.
 
 ## Citation
 
+If you use this work, please cite the paper:
+
 ```bibtex
 @article{shahi2026gdsgd,
   title  = {Comparative Analysis of Gradient Descent and Stochastic Gradient
@@ -68,5 +71,21 @@ reproducibility of the accompanying paper.
   author = {Shahi, Hossein and Yuan, Juefei and Zolnourian, Zahra},
   year   = {2026},
   note   = {arXiv:XXXX.XXXXX}
+}
+```
+
+To cite the code and data archive itself:
+
+```bibtex
+@software{shahi2026gdsgd_code,
+  author    = {Shahi, Hossein and Yuan, Juefei and Zolnourian, Zahra},
+  title     = {gd-sgd-polynomial-fitting: Code and data for "Comparative
+               Analysis of Gradient Descent and Stochastic Gradient Descent
+               for Polynomial Curve Fitting"},
+  year      = {2026},
+  version   = {v1.0.0},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21294019},
+  url       = {https://doi.org/10.5281/zenodo.21294019}
 }
 ```
