@@ -1,4 +1,5 @@
 # Comparative Analysis of Gradient Descent and Stochastic Gradient Descent for Polynomial Curve Fitting
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21294019.svg)](https://doi.org/10.5281/zenodo.21294019)
 
 Code, data, and complete experimental records for the paper:
