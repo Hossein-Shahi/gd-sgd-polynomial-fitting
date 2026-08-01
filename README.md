@@ -4,7 +4,7 @@
 
 Code, data, and complete experimental records for the paper:
 
-> Hossein Shahi, Juefei Yuan, Zahra Zolnourian.
+> Hossein Shahi.
 > *Comparative Analysis of Gradient Descent and Stochastic Gradient Descent for
 > Polynomial Curve Fitting: A Transparent From-Scratch Implementation Study.* 2026.
 
