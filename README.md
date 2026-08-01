@@ -69,7 +69,7 @@ If you use this work, please cite the paper:
   title  = {Comparative Analysis of Gradient Descent and Stochastic Gradient
             Descent for Polynomial Curve Fitting: A Transparent From-Scratch
             Implementation Study},
-  author = {Shahi, Hossein and Yuan, Juefei and Zolnourian, Zahra},
+  author = {Shahi, Hossein and Zolnourian, Zahra},
   year   = {2026},
   note   = {arXiv:XXXX.XXXXX}
 }
@@ -79,7 +79,7 @@ To cite the code and data archive itself:
 
 ```bibtex
 @software{shahi2026gdsgd_code,
-  author    = {Shahi, Hossein and Yuan, Juefei and Zolnourian, Zahra},
+  author    = {Shahi, Hossein and Zolnourian, Zahra},
   title     = {gd-sgd-polynomial-fitting: Code and data for "Comparative
                Analysis of Gradient Descent and Stochastic Gradient Descent
                for Polynomial Curve Fitting"},
