@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper listed under preferred-citation."
+type: software
+title: "gd-sgd-polynomial-fitting"
+abstract: "Code and data for a closed-form comparison of gradient descent and stochastic gradient descent on polynomial regression, covering stability thresholds, noise-floor scaling under reshuffled and i.i.d. sampling, iteration parity, a synthetic twin with known noise, and decaying step sizes."
+authors:
+  - family-names: "Shahi"
+    given-names: "Hossein"
+    orcid: "https://orcid.org/0000-0003-2109-1434"
+    affiliation: "Southeast Missouri State University"
+  - family-names: "Yuan"
+    given-names: "Juefei"
+    orcid: "https://orcid.org/0009-0009-3072-5890"
+    affiliation: "Southeast Missouri State University"
+  - family-names: "Zolnourian"
+    given-names: "Zahra"
+    orcid: "https://orcid.org/0009-0003-9576-7879"
+    affiliation: "Independent Researcher"
+version: "2.0.0"
+date-released: "2026-08-15"
+doi: "10.5281/zenodo.XXXXXXXX"
+license: MIT
+repository-code: "https://github.com/Hossein-Shahi/gd-sgd-polynomial-fitting"
+keywords:
+  - "gradient descent"
+  - "stochastic gradient descent"
+  - "polynomial regression"
+  - "stability threshold"
+  - "noise floor"
+  - "random reshuffling"
+  - "mathematics education"
+  - "reproducible computation"
+preferred-citation:
+  type: article
+  status: submitted
+  title: "Stability Thresholds and Noise Floors: Comparing Gradient Descent and Stochastic Gradient Descent on Polynomial Regression"
+  year: 2026
+  authors:
+    - family-names: "Shahi"
+      given-names: "Hossein"
+      orcid: "https://orcid.org/0000-0003-2109-1434"
+    - family-names: "Yuan"
+      given-names: "Juefei"
+      orcid: "https://orcid.org/0009-0009-3072-5890"
+    - family-names: "Zolnourian"
+      given-names: "Zahra"
+      orcid: "https://orcid.org/0009-0003-9576-7879"
