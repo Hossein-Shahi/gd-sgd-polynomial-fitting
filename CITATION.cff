@@ -18,7 +18,7 @@ authors:
     affiliation: "Independent Researcher"
 version: "2.0.0"
 date-released: "2026-08-15"
-doi: "10.5281/zenodo.XXXXXXXX"
+doi: "10.5281/zenodo.21960713" 
 license: MIT
 repository-code: "https://github.com/Hossein-Shahi/gd-sgd-polynomial-fitting"
 keywords:
